@@ -7,6 +7,7 @@ public class Class1
 		System.out.println("Hii-this is first line");
 		System.out.println("Hii this is second line");
 	    System.out.println("RAHUL");
+	    System.out.println("ASKAHY");
 	}
 
 }
